@@ -2,6 +2,7 @@
   "Followers": [
     {
       "price": 0.014,
+      "lowest": 200,
       "tip": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 followers",
@@ -11,6 +12,7 @@
     },
     {
       "price": 0.071,
+      "lowest": 100,
       "tip": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 followers",
@@ -20,6 +22,7 @@
     },
     {
       "price": 0.14,
+      "lowest": 100,
       "tip": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 followers",
@@ -31,6 +34,7 @@
   "Likes": [
     {
       "price": 0.0071,
+      "lowest": 100,
       "tip": [
         "Complete the task in about 3 hours",
         "The total daily limit is 100,000 likes",
@@ -40,6 +44,7 @@
     },
     {
       "price": 0.014,
+      "lowest": 250,
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 100,000 likes",
@@ -49,6 +54,7 @@
     },
     {
       "price": 0.043,
+      "lowest": 250,
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 100,000 likes",
@@ -60,6 +66,7 @@
   "Views": [
     {
       "price": 0.0014,
+      "lowest": 500,
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
@@ -69,6 +76,7 @@
     },
     {
       "price": 0.0021,
+      "lowest": 500,
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
@@ -78,6 +86,7 @@
     },
     {
       "price": 0.0028,
+      "lowest": 500,
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
@@ -89,6 +98,7 @@
   "Comments": [
     {
       "price": 0.071,
+      "lowest": 1,
       "tip": [
         "Complete the task in about 1 hours",
         "The total daily limit is 1000 comments",
@@ -100,6 +110,7 @@
   "Snapshot": [
     {
       "price": 0.0014,
+      "lowest": 100,
       "tip": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 Snapshot views",
@@ -109,6 +120,7 @@
     },
     {
       "price": 0.0043,
+      "lowest": 100,
       "tip": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 Snapshot views",
@@ -118,6 +130,7 @@
     },
     {
       "price": 0.011,
+      "lowest": 100,
       "tip": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 Snapshot views",
