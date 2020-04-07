@@ -34,7 +34,7 @@
       "tip": [
         "Complete the task in about 3 hours",
         "The total daily limit is 100,000 likes",
-        "(that is, other users have purchased 9000, then you can only buy 1,000)",
+        "(that is, other users have purchased 90,000, then you can only buy 10,000)",
         "The minimum purchase quantity is 100"
       ]
     },
@@ -43,7 +43,7 @@
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 100,000 likes",
-        "(that is, other users have purchased 9000, then you can only buy 1,000)",
+        "(that is, other users have purchased 90,000, then you can only buy 10,000)",
         "The minimum purchase quantity is 250"
       ]
     },
@@ -52,7 +52,7 @@
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 100,000 likes",
-        "(that is, other users have purchased 9000, then you can only buy 1,000)",
+        "(that is, other users have purchased 90,000, then you can only buy 10,000)",
         "The minimum purchase quantity is 250"
       ]
     }
@@ -63,7 +63,7 @@
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
-        "(that is, other users have purchased 9000, then you can only buy 1,000)",
+        "(that is, other users have purchased 900,000, then you can only buy 100,000)",
         "The minimum purchase quantity is 500"
       ]
     },
@@ -72,7 +72,7 @@
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
-        "(that is, other users have purchased 9000, then you can only buy 1,000)",
+        "(that is, other users have purchased 900,000, then you can only buy 100,000)",
         "The minimum purchase quantity is 500"
       ]
     },
@@ -81,7 +81,7 @@
       "tip": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
-        "(that is, other users have purchased 9000, then you can only buy 1,000)",
+        "(that is, other users have purchased 900,000, then you can only buy 100,000)",
         "The minimum purchase quantity is 500"
       ]
     }
