@@ -4,33 +4,51 @@
       "id": 249,
       "price": 0.014,
       "lowest": 200,
-      "tip": [
+      "tipen": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 followers",
         "(that is, other users have purchased 9000, then you can only buy 1,000)",
         "The minimum purchase quantity is 200"
+      ],
+      "tipzh": [
+        "在大约5个小时内完成任务",
+        "每日总限量为10,000个关注者",
+        "(也就是说，其他用户购买了9000，那么您只能购买1000)",
+        "最低购买量为 200"
       ]
     },
     {
       "id": 57,
       "price": 0.071,
       "lowest": 100,
-      "tip": [
+      "tipen": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 followers",
         "(that is, other users have purchased 9000, then you can only buy 1,000)",
         "The minimum purchase quantity is 100"
+      ],
+      "tipzh": [
+        "在大约5个小时内完成任务",
+        "每日总限量为10,000个关注者",
+        "(也就是说，其他用户购买了9000，那么您只能购买1000)",
+        "最低购买量为 100"
       ]
     },
     {
       "id": 284,
       "price": 0.14,
       "lowest": 100,
-      "tip": [
+      "tipen": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 followers",
         "(that is, other users have purchased 9000, then you can only buy 1,000)",
         "The minimum purchase quantity is 100"
+      ],
+      "tipzh": [
+        "在大约5个小时内完成任务",
+        "每日总限量为10,000个关注者",
+        "(也就是说，其他用户购买了9000，那么您只能购买1000)",
+        "最低购买量为 100"
       ]
     }
   ],
@@ -39,33 +57,51 @@
       "id": 69,
       "price": 0.0071,
       "lowest": 100,
-      "tip": [
+      "tipen": [
         "Complete the task in about 3 hours",
         "The total daily limit is 100,000 likes",
         "(that is, other users have purchased 90,000, then you can only buy 10,000)",
         "The minimum purchase quantity is 100"
+      ],
+      "tipzh": [
+        "在大约3个小时内完成任务",
+        "每日总限量为100,000个点赞",
+        "(也就是说，其他用户购买了90,000，那么您只能购买10,000)",
+        "最低购买量为 100"
       ]
     },
     {
       "id": 68,
       "price": 0.014,
       "lowest": 250,
-      "tip": [
+      "tipen": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 100,000 likes",
         "(that is, other users have purchased 90,000, then you can only buy 10,000)",
         "The minimum purchase quantity is 250"
+      ],
+      "tipzh": [
+        "在大约10分钟内完成任务",
+        "每日总限量为100,000个点赞",
+        "(也就是说，其他用户购买了90,000，那么您只能购买10,000)",
+        "最低购买量为 250"
       ]
     },
     {
       "id": 67,
       "price": 0.043,
       "lowest": 250,
-      "tip": [
+      "tipen": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 100,000 likes",
         "(that is, other users have purchased 90,000, then you can only buy 10,000)",
         "The minimum purchase quantity is 250"
+      ],
+      "tipzh": [
+        "在大约10分钟内完成任务",
+        "每日总限量为100,000个点赞",
+        "(也就是说，其他用户购买了90,000，那么您只能购买10,000)",
+        "最低购买量为 250"
       ]
     }
   ],
@@ -74,33 +110,51 @@
       "id": 83,
       "price": 0.0014,
       "lowest": 500,
-      "tip": [
+      "tipen": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
         "(that is, other users have purchased 900,000, then you can only buy 100,000)",
         "The minimum purchase quantity is 500"
+      ],
+      "tipzh": [
+        "在大约10分钟内完成任务",
+        "每日总限量为1,000,000个浏览量",
+        "(也就是说，其他用户购买了900,000，那么您只能购买100,000)",
+        "最低购买量为 500"
       ]
     },
     {
       "id": 85,
       "price": 0.0021,
       "lowest": 500,
-      "tip": [
+      "tipen": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
         "(that is, other users have purchased 900,000, then you can only buy 100,000)",
         "The minimum purchase quantity is 500"
+      ],
+      "tipzh": [
+        "在大约10分钟内完成任务",
+        "每日总限量为1,000,000个浏览量",
+        "(也就是说，其他用户购买了900,000，那么您只能购买100,000)",
+        "最低购买量为 500"
       ]
     },
     {
       "id": 86,
       "price": 0.0028,
       "lowest": 500,
-      "tip": [
+      "tipen": [
         "Complete the task in about 10 minutes",
         "The total daily limit is 1,000,000 views",
         "(that is, other users have purchased 900,000, then you can only buy 100,000)",
         "The minimum purchase quantity is 500"
+      ],
+      "tipzh": [
+        "在大约10分钟内完成任务",
+        "每日总限量为1,000,000个浏览量",
+        "(也就是说，其他用户购买了900,000，那么您只能购买100,000)",
+        "最低购买量为 500"
       ]
     }
   ],
@@ -109,11 +163,17 @@
       "id": 95,
       "price": 0.071,
       "lowest": 1,
-      "tip": [
+      "tipen": [
         "Complete the task in about 1 hours",
         "The total daily limit is 1000 comments",
         "(that is, other users have purchased 900, then you can only buy 100)",
         "The minimum purchase quantity is 1"
+      ],
+      "tipzh": [
+        "在大约1个小时内完成任务",
+        "每日总限量为1000条评论",
+        "(也就是说，其他用户购买了900，那么您只能购买100)",
+        "最低购买量为 1"
       ]
     }
   ],
@@ -122,33 +182,51 @@
       "id": 90,
       "price": 0.0014,
       "lowest": 100,
-      "tip": [
+      "tipen": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 Snapshot views",
         "(that is, other users have purchased 9000, then you can only buy 1,000)",
         "The minimum purchase quantity is 100"
+      ],
+      "tipzh": [
+        "在大约5个小时内完成任务",
+        "每日总限量为10,000个浏览量",
+        "(也就是说，其他用户购买了9000，那么您只能购买1000)",
+        "最低购买量为 100"
       ]
     },
     {
       "id": 628,
       "price": 0.0043,
       "lowest": 100,
-      "tip": [
+      "tipen": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 Snapshot views",
         "(that is, other users have purchased 9000, then you can only buy 1,000)",
         "The minimum purchase quantity is 100"
+      ],
+      "tipzh": [
+        "在大约5个小时内完成任务",
+        "每日总限量为10,000个浏览量",
+        "(也就是说，其他用户购买了9000，那么您只能购买1000)",
+        "最低购买量为 100"
       ]
     },
     {
       "id": 286,
       "price": 0.011,
       "lowest": 100,
-      "tip": [
+      "tipen": [
         "Complete the task in about 5 hours",
         "The total daily limit is 10,000 Snapshot views",
         "(that is, other users have purchased 9000, then you can only buy 1,000)",
         "The minimum purchase quantity is 100"
+      ],
+      "tipzh": [
+        "在大约5个小时内完成任务",
+        "每日总限量为10,000个浏览量",
+        "(也就是说，其他用户购买了9000，那么您只能购买1000)",
+        "最低购买量为 100"
       ]
     }
   ]
