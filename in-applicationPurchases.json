@@ -1,0 +1,66 @@
+{
+  "Followers": [
+    {
+      "id": "ig.f.100",
+      "price": 7.99,
+      "quantity": 100,
+      "mrpopularId": 57
+    },
+    {
+      "id": "ig.f.200",
+      "price": 9.99,
+      "quantity": 200,
+      "mrpopularId": 249
+    },
+    {
+      "id": "ig.f.500",
+      "price": 19.99,
+      "quantity": 500,
+      "mrpopularId": 249
+    },
+    {
+      "id": "ig.f.1000",
+      "price": 29.99,
+      "quantity": 1000,
+      "mrpopularId": 249
+    },
+    {
+      "id": "ig.f.2000",
+      "price": 58.88,
+      "quantity": 2000,
+      "mrpopularId": 249
+    }
+  ],
+  "Likes": [
+    {
+      "id": "ig.l.100",
+      "price": 1.99,
+      "quantity": 100,
+      "mrpopularId": 69
+    },
+    {
+      "id": "ig.l.200",
+      "price": 3.99,
+      "quantity": 200,
+      "mrpopularId": 69
+    },
+    {
+      "id": "ig.l.500",
+      "price": 9.99,
+      "quantity": 500,
+      "mrpopularId": 69
+    },
+    {
+      "id": "ig.l.1000",
+      "price": 14.99,
+      "quantity": 1000,
+      "mrpopularId": 69
+    },
+    {
+      "id": "ig.l.2000",
+      "price": 29.99,
+      "quantity": 2000,
+      "mrpopularId": 69
+    }
+  ]
+}
