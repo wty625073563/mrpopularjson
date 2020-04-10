@@ -29,6 +29,12 @@
       "price": 58.88,
       "quantity": 2000,
       "mrpopularId": 249
+    },
+    {
+      "id": "ig.f.5000",
+      "price": 99.99,
+      "quantity": 5000,
+      "mrpopularId": 249
     }
   ],
   "Likes": [
@@ -60,6 +66,12 @@
       "id": "ig.l.2000",
       "price": 29.99,
       "quantity": 2000,
+      "mrpopularId": 69
+    },
+    {
+      "id": "ig.l.5000",
+      "price": 68.99,
+      "quantity": 5000,
       "mrpopularId": 69
     }
   ]
